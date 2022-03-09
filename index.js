@@ -14,3 +14,6 @@ class Retangulo{
 var quadrado = new Retangulo (10,10); 
 let retangulo = new Retangulo(30,60);
 console.log (quadrado.calcularArea(), retangulo.calcularArea())
+
+let objetoNovo = new Retangulo(20,40)
+console.log(objetoNovo.calcularArea())
